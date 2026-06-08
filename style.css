@@ -1,0 +1,12 @@
+* {
+  color: #ffffff;
+  background-color: #000000;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+}
+
+.Header {
+  font-size: 3em;
+  text-align: center;
+  margin-top: 20px;
+}
