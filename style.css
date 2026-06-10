@@ -45,14 +45,15 @@
 }
 
 .nav-bar {
+  padding: 0.1em;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
   border: 1px solid #ffffff;
   border-radius: 0.75em;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 35%;
+  margin-right: 35%;
   margin-top: 2em;
   margin-bottom: 4em;
 }
